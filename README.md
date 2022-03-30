@@ -22,7 +22,7 @@ This project demonstrates the use of asynchronous programming, DOM manipulation,
 
 *Notes:*
 
-Refactor a project from week #9 Professional Certificate in Coding @ MIT/Emeritus
+Project from week #9 Professional Certificate in Coding - MIT xPRO/Emeritus
 
 Use the OpenAPI 1.2 https://rapidapi.com/transloc/api/openapi-1-2/
 
