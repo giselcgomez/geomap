@@ -26,7 +26,8 @@ Project from week #9 Professional Certificate in Coding - MIT xPRO/Emeritus
 
 Use the OpenAPI 1.2 https://rapidapi.com/transloc/api/openapi-1-2/
 
-*LICENSE:*
+**LICENSE:**
 
 This project is licensed under the MIT license.
+
 https://github.com/giselcgomez/geomap/blob/main/LICENSE
