@@ -12,11 +12,21 @@ This project demonstrates the use of asynchronous programming, DOM manipulation,
 
 - Download all the files into the same folder. Open the index.html file in your browser.
 
----
 *Where to go from here:*
 
 - Add more routes to the map
+- Use other routes API
+
+
+---
+
+*Notes:*
 
 Refactor a project from week #9 Professional Certificate in Coding @ MIT/Emeritus
 
 Use the OpenAPI 1.2 https://rapidapi.com/transloc/api/openapi-1-2/
+
+*LICENSE:*
+
+This project is licensed under the MIT license.
+https://github.com/giselcgomez/geomap/blob/main/LICENSE
